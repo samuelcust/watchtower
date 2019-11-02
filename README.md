@@ -1,6 +1,6 @@
 # watchtower
 
-The game Wooden Watch Tower created with JavaScript (Three.js)
+The game Watch Tower created with JavaScript (Three.js)
 
 ## Requirements
 
