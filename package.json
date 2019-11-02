@@ -1,6 +1,7 @@
 {
-  "name": "game3d",
-  "version": "0.0.1-alpha",
+  "name": "watchtower",
+  "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "start": "serve public/"
   },
