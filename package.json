@@ -9,6 +9,6 @@
     "serve": "^11.2.0"
   },
   "dependencies": {
-    "three": "^0.110.0"
+    "three": "^0.125.0"
   }
 }
